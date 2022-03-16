@@ -1,0 +1,51 @@
+{
+  "compras": [
+    {
+      "id": 1,
+      "name": "Arroz",
+      "number": "100g",
+      "status": 0
+    }, {
+      "id": 2,
+      "name": "Arroz",
+      "number": "100g",
+      "status": 0
+    }, {
+      "id": 3,
+      "name": "Arroz",
+      "number": "100g",
+      "status": 0
+    }, {
+      "id": 4,
+      "name": "Arroz",
+      "number": "100g",
+      "status": 0
+    }, {
+      "id": 5,
+      "name": "Arroz",
+      "number": "100g",
+      "status": 0
+    }
+  ],
+  "lugares": [
+    {
+      "id": 1,
+      "name": "Arena",
+      "status": 0
+    }
+  ],
+  "metas": [
+    {
+      "id": 1,
+      "name": "Apartamento",
+      "status": 0
+    }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "name": "Arrumar a lampada",
+      "status": 0
+    }
+  ]
+}
